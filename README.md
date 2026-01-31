@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ottia Sedrick  👋
 
-<!--
-**dev-ottia/dev-ottia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer specializing in **Django** and **React / Next.js**,  
+with experience integrating **AI solutions** using Python.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Backend: Django, Django REST Framework
+- Frontend: React, Next.js
+- AI: Google ADK, LLM integrations
+- Database: PostgreSQL, MySQL
+- Tools: Git, Docker (basic), REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Building production-ready full-stack applications
+- AI-powered web solutions
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/yourname
+- Email: sedrickottia4@gmail.com
